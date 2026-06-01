@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Construções 360",
+  "description": "Controle completo do ciclo de vida de obras residenciais de alto padrão - Fremasa Construções",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
